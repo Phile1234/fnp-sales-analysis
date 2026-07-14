@@ -39,7 +39,7 @@ This project answers the following questions:
 - City-wise order patterns
 
 ## Dashboard
-Add your final dashboard image here.
+- `dashboardfnp_sales_dashboard.png` 
 
 ## Files
 - `analysis/fnp_sales_analysis.xlsx` – cleaned dataset and analysis
