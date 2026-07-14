@@ -43,5 +43,5 @@ Add your final dashboard image here.
 
 ## Files
 - `analysis/fnp_sales_analysis.xlsx` – cleaned dataset and analysis
-- `dashboard/fnp_sales_dashboard.png` – final dashboard screenshot
+- `dashboardfnp_sales_dashboard.png` – final dashboard screenshot
 
