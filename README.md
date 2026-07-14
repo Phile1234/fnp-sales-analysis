@@ -39,9 +39,9 @@ This project answers the following questions:
 - City-wise order patterns
 
 ## Dashboard
-- `dashboardfnp_sales_dashboard.png` 
+
+![FNP Sales Dashboard](docs/dashboardfnp_sales_dashboard.png)
 
 ## Files
 - `analysis/fnp_sales_analysis.xlsx` – cleaned dataset and analysis
 - `dashboardfnp_sales_dashboard.png` – final dashboard screenshot
-
